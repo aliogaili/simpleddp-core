@@ -10,7 +10,9 @@ const PUBLIC_EVENTS = [
     // Method messages
     "result", "updated",
     // Error messages
-    "error"
+    "error",
+    // Payload
+    "payload"
 ];
 const DEFAULT_RECONNECT_INTERVAL = 10000;
 
